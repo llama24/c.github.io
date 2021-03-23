@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> The famous person </title> <b>
+</head>
+<body>
+
+<h1> Trending news </h1> <br>
+
+<p> New famous model? According to the new report, A new model named C 
+have made a big place in the public’s hearts and has been successfully 
+achieved their rank in top 10 models in the world! She reached 1 million followers in 
+a week.
+  Her fashion sense, poses and vlogs have gone viral over the internet. If her fans increase by a thousand, she can be the world’s biggest model ever! Fans are excited to visit her studio to see her photoshoot. Her photoshoot will be also live telecasted on most of the tv channels.Will she be the most successful model ever? </p>
+  
+<h2> How can someone become so popular in a week? </h2> <br>
+
+<p> Fans are really confused and there questions which don't have an snwer and will remain mystery forever, lets see if they will be find and solve the case, That's it for today's report and keep supporting our famous model c. </p>
+
+</body>
+</html>
+
+
